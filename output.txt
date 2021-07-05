@@ -1,7 +1,4 @@
-Election Results
+Financial Analysis
 ----------------------------
-Total Votes:3521001----------------------------
-
-----------------------------
-Winner: 
-----------------------------
+Total Months:86Total: $38382578Average Change:
+0Greatest Increase in Profits:['Feb-2012', 1926159.0]Greatest Decrease in Profits['Feb-2017', 532869.0]
